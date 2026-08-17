@@ -4,12 +4,4 @@ Direct use of automatic function calling (AFC) in Models.generate_content is not
 Direction: in a warm, playful, lightly flirty tone -- teasing and unhurried, like you're letting the viewer in on something, at an easy conversational pace
 Line: Craving something sweet after dinner? Try frozen berries with a spoonful of Greek yogurt. Same hit, none of the crash.
 
-[audio_gen] Gemini TTS failed for a line, continuing without voiceover: 500 INTERNAL. {'error': {'code': 500, 'message': 'An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting', 'status': 'INTERNAL'}}
-Kore: FAILED (see the error above)
-Aoede: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Aoede.wav
-Despina: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Despina.wav
-Callirrhoe: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Callirrhoe.wav
-Achernar: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Achernar.wav
-Sulafat: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Sulafat.wav
-Leda: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Leda.wav
-Laomedeia: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Laomedeia.wav
+Kore: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Kore.wav
