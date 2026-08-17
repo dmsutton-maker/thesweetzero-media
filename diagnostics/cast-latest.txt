@@ -1,0 +1,19 @@
+outcome: failure
+
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/cast_character.py", line 132, in <module>
+    main()
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/cast_character.py", line 128, in main
+    generate_candidates(character, args.count)
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/cast_character.py", line 80, in generate_candidates
+    url = media_host.publish_media(path, f"character/candidate-{i + 1}.png")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/media_host.py", line 69, in publish_media
+    raise RuntimeError(f"Failed to publish media to {repo}/{remote_relpath} after {MAX_RETRIES} attempts: {last_error}")
+RuntimeError: Failed to publish media to dmsutton-maker/thesweetzero-media/character/candidate-1.png after 3 attempts: 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/character/candidate-1.png
+Character: Nora
+Appearance: A woman in her mid-30s, white, with shoulder-length brunette hair, warm brown eyes, light natural makeup, and an approachable, friendly face. Natural, realistic proportions -- a real-looking home cook, not a model.
+
