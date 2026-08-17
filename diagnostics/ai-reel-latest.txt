@@ -3,13 +3,16 @@ outcome: failure
 Traceback (most recent call last):
   File "<frozen runpy>", line 198, in _run_module_as_main
   File "<frozen runpy>", line 88, in _run_code
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 73, in <module>
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 76, in <module>
     main()
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 47, in main
-    caption = content_gen.generate_am_caption(topic)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/content_gen.py", line 79, in generate_am_caption
-    f"Today's topic: {topic['name']} ({topic['weekday'].title()}).\n"
-                                       ~~~~~^^^^^^^^^^^
-KeyError: 'weekday'
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 58, in main
+    video_gen.assemble_ai_reel(video_prompt, reel_path)
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/video_gen.py", line 176, in assemble_ai_reel
+    video_url = fal_client.generate_video(prompt, duration=AI_VIDEO_DURATION_SECONDS, aspect_ratio="9:16")
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/fal_client.py", line 92, in generate_video
+    raise FalError(f"fal.ai job {request_id} did not complete within {MAX_WAIT_SECONDS}s (last status: {status})")
+app.fal_client.FalError: fal.ai job 01a0106a-3e6f-7fc2-acfb-c0336c887395 did not complete within 300s (last status: IN_PROGRESS)
 Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
+Generating AI video via fal.ai...
+  prompt: A slow, gentle video of: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.. Warm, editorial food/lifestyle cinematography, soft natural light, gentle camera movement. No on-screen text, no people, no faces.
