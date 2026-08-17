@@ -2,30 +2,28 @@ outcome: success
 
 Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
 Generating host video via fal.ai...
-[video_gen] host=Nora outfit=a fitted cream ribbed henley with the top two buttons undone
-Generated 20729732 bytes
+[video_gen] host=Nora outfit=a fitted cream ribbed henley with the top three buttons undone
+Generated 17909249 bytes
 [media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 1/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 2s
 [media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 2/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 4s
 [media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 3/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 8s
+[media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 4/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 16s
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Dinner doesn't have to be complicated to be good for you.
+Dinner doesn't need a 12-step plan to feel good. 🍋
 
-**Sheet-Pan Lemon Garlic Chicken + Veggies**
-- 4 chicken thighs
-- 2 cups broccoli or green beans
-- 1 lemon, sliced
-- 3 garlic cloves, minced
-- Olive oil, salt, pepper
+Lemon Herb Chicken & Veg (one pan, 5 ingredients):
+- Chicken thighs, olive oil, garlic
+- Toss with zucchini + bell peppers
+- Squeeze fresh lemon, add salt + pepper
+- Roast at 400°F for 25 min, done
 
-Toss everything on one pan, roast at 400°F for 30-35 min. That's it. No added sugar, no complicated steps, just real food that fills you up.
+No sugar, no fuss, just real food that fills you up.
 
-This is the kind of meal you can make on a Thursday when you're tired and still want something that feels like it took effort (even though it didn't).
+Save this for busy weeknights — and tell me, what's your go-to easy dinner?
 
-Save this for your next "what's for dinner" moment — and tell me what veggie you'd swap in.
-
-#type2diabetic #bloodsugarbalance #nosugarchallenge #lowsugarliving #sugarswap #eatclean #healthyliving #foodismedicine #healthyhabits #healthyrecipes
+#prediabeteswarrior #lowglycemic #insulinresistance #lowcarblifestyle #diabeticfriendlyfood #realfood #healthyhabits #wellnessjourney #glutenfreelife #foodismedicine
 ---------------
 
 --dry-run set: not publishing to Instagram.
