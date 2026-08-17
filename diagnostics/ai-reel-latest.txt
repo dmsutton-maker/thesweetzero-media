@@ -1,29 +1,32 @@
 outcome: success
 
-Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+Topic: Meal Prep / Weekly Reset — A practical meal-prep tip or weekly reset ritual for low/no-sugar living.
 Generating host video via fal.ai...
-[video_gen] host=Nora outfit=a fitted cream ribbed henley with the top three buttons undone
-Generated 17909249 bytes
-[media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 1/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 2s
-[media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 2/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 4s
-[media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 3/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 8s
-[media_host] upload of 2026-08-17/ai-reel-manual.mp4 failed (attempt 4/8): 503 Server Error: Service Unavailable for url: https://api.github.com/repos/dmsutton-maker/thesweetzero-media/contents/2026-08-17/ai-reel-manual.mp4 -- retrying in 16s
+[video_gen] host=Nora outfit=a fitted cream ribbed knit top with a deep sweetheart neckline
+[video_gen] host script: Sunday's my reset day. I roast a big tray of veggies and grill some protein, so lunch is just grab, plate, done—no decisions, no sugary shortcuts.
+[video_gen] voiceover is 10.7s against a 9.8s clip -- skipping lip-sync
+[video_gen] voiceover runs 1.1s past the clip -- holding the last frame
+Generated 4863311 bytes
+  duration=11.07s size=[1080, 1920] audio=True
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Dinner doesn't need a 12-step plan to feel good. 🍋
+Sunday you future self a favor.
 
-Lemon Herb Chicken & Veg (one pan, 5 ingredients):
-- Chicken thighs, olive oil, garlic
-- Toss with zucchini + bell peppers
-- Squeeze fresh lemon, add salt + pepper
-- Roast at 400°F for 25 min, done
+Try this 20-minute reset before the week gets loud:
+Pick 2 proteins, roast them together (chicken thighs + hard-boiled eggs work great)
+Chop all your veggies at once, even if they're going into different meals
+Cook a big batch of a low-glycemic base — think cauliflower rice or lentils
+Portion into containers so grabbing food is easier than grabbing takeout menus
 
-No sugar, no fuss, just real food that fills you up.
+The goal isn't perfection. It's making the steady choice the easy choice, especially at 6pm when you're tired and hungry.
 
-Save this for busy weeknights — and tell me, what's your go-to easy dinner?
+Small systems add up more than willpower ever will. 🧡
 
-#prediabeteswarrior #lowglycemic #insulinresistance #lowcarblifestyle #diabeticfriendlyfood #realfood #healthyhabits #wellnessjourney #glutenfreelife #foodismedicine
+Save this for your Sunday reset — and tell me, what's the one thing you always prep first?
+
+#lowsugarliving #a1clowering #bloodsugarbalance #nosugarchallenge #diabeticfriendlyfood #wellnessjourney #homecooking #realfood #healthyhabits #foodismedicine
 ---------------
 
 --dry-run set: not publishing to Instagram.
