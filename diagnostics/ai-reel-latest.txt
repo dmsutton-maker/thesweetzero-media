@@ -2,27 +2,27 @@ outcome: success
 
 Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
 Generating AI video via fal.ai...
-  prompt: A slow, gentle video of: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.. Warm, editorial food/lifestyle cinematography, soft natural light, gentle camera movement. No on-screen text, no people, no faces.
-Generated 3139146 bytes
+  prompt: A cinematic vertical video of: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.. A person is cooking this in a bright, lived-in home kitchen: hands chopping, stirring and assembling in close-up, the raw ingredients laid out on the counter, and the finished dish presented at the end. Warm, editorial food cinematography, soft natural window light, shallow depth of field, gentle handheld camera movement. No on-screen text, no logos, no watermarks.
+Generated 4840327 bytes
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Dinner doesn't have to be complicated to feel like a win.
+Dinner doesn't have to be complicated to be good for you.
 
-Today's recipe: Zucchini Noodle Skillet 🍝
-- 2 zucchini, spiralized or thinly sliced
-- 1 tbsp olive oil
-- 2 cloves garlic, minced
-- 1/2 cup cherry tomatoes, halved
-- Parmesan + fresh basil to finish
+Tonight's keeper: Sheet-Pan Lemon Garlic Chicken & Veggies
+- 4 chicken thighs (skin on, bone in)
+- 2 cups chopped veggies (broccoli, peppers, zucchini — whatever's in the fridge)
+- 2 tbsp olive oil
+- Juice of 1 lemon + 3 minced garlic cloves
+- Salt, pepper, pinch of paprika
 
-Sauté garlic in oil, add zucchini and tomatoes, toss for 3-4 minutes until just tender. Top with cheese and basil. That's it — that's dinner.
+Toss everything together, spread on a sheet pan, roast at 425°F for 30-35 min. That's it. No added sugar, minimal cleanup, and leftovers taste even better the next day.
 
-Simple swaps add up. This one skips the sugar hiding in jarred sauces without skipping the flavor.
+This is the kind of meal that fits into real life — not a strict plan you'll abandon by Friday.
 
-Save this for your next "what's for dinner" moment — and tell me, what's your favorite low-sugar weeknight meal?
+Save this for your next grocery run, and tell me: what veggies would you throw in?
 
-#nosugarchallenge #lowsugarliving #lowcarblifestyle #diabeticfriendlyfood #a1clowering #healthyrecipes #eatclean #nutritiontips #foodismedicine #glutenfreelife
+#lowglycemic #insulinresistance #prediabeteswarrior #type2diabetic #nosugarchallenge #eatclean #healthyrecipes #nutritiontips #mealprep #healthyliving
 ---------------
 
-Published AI Reel to Instagram: media id 18437579122126737
+--dry-run set: not publishing to Instagram.
