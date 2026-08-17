@@ -4,7 +4,9 @@ Direct use of automatic function calling (AFC) in Models.generate_content is not
 Character: Nora
 Appearance: A woman in her mid-30s, white, with shoulder-length brunette hair, warm brown eyes, light natural makeup, and an approachable, friendly face. Natural, realistic proportions -- a real-looking home cook, not a model.
 
-CANDIDATE 1: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/candidate-1.jpg
-CANDIDATE 2: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/candidate-2.jpg
-CANDIDATE 3: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/candidate-3.jpg
-CANDIDATE 4: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/candidate-4.jpg
+frontal: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/frontal.jpg
+three-quarter: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/three-quarter.jpg
+profile: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/profile.jpg
+wider: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/character/wider.jpg
+
+Locked candidate 2 into /home/runner/work/thesweetzero-automation/thesweetzero-automation/data/character.yaml
