@@ -1,32 +1,27 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Topic: Meal Prep / Weekly Reset — A practical meal-prep tip or weekly reset ritual for low/no-sugar living.
+Topic: Snack Swaps — A specific high-sugar snack and a low/no-sugar swap for it.
 Generating host video via fal.ai...
 [video_gen] host=Nora outfit=a fitted cream ribbed knit top with a deep sweetheart neckline
-[video_gen] host script: Sunday's my reset day. I roast a big tray of veggies and grill some protein, so lunch is just grab, plate, done—no decisions, no sugary shortcuts.
-[video_gen] voiceover is 10.7s against a 9.8s clip -- skipping lip-sync
-[video_gen] voiceover runs 1.1s past the clip -- holding the last frame
-Generated 4863311 bytes
-  duration=11.07s size=[1080, 1920] audio=True
+[video_gen] host script: Skip the flavored yogurt cups, they're basically dessert. Grab plain Greek yogurt and toss in some cinnamon and berries yourself.
+Generated 24161175 bytes
+  duration=9.77s size=[1072, 1920] audio=True
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Sunday you future self a favor.
+Craving something crunchy but don't want the sugar crash an hour later?
 
-Try this 20-minute reset before the week gets loud:
-Pick 2 proteins, roast them together (chicken thighs + hard-boiled eggs work great)
-Chop all your veggies at once, even if they're going into different meals
-Cook a big batch of a low-glycemic base — think cauliflower rice or lentils
-Portion into containers so grabbing food is easier than grabbing takeout menus
+Swap: flavored granola bars → roasted chickpeas
+Toss canned chickpeas (drained, patted dry) with olive oil, salt, and whatever spice you love — smoked paprika, cumin, garlic powder
+Roast at 400°F for 25-30 min, shaking the pan halfway
+You get the crunch, plus fiber and protein to help keep you steady
 
-The goal isn't perfection. It's making the steady choice the easy choice, especially at 6pm when you're tired and hungry.
+They keep well too — make a big batch on Sunday and you've got snacks ready for the whole week.
 
-Small systems add up more than willpower ever will. 🧡
+Save this for later, and tell me: what's the snack you miss most since cutting back on sugar? 🍫
 
-Save this for your Sunday reset — and tell me, what's the one thing you always prep first?
-
-#lowsugarliving #a1clowering #bloodsugarbalance #nosugarchallenge #diabeticfriendlyfood #wellnessjourney #homecooking #realfood #healthyhabits #foodismedicine
+#nosugarchallenge #prediabeteswarrior #sugarswap #lowsugarliving #insulinresistance #healthyswap #wellnessjourney #eatclean #mealprep #homecooking
 ---------------
 
 --dry-run set: not publishing to Instagram.
