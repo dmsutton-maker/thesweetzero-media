@@ -1,30 +1,37 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Topic: Grocery/Label Reading Tip — How to spot hidden sugar on a nutrition label or ingredient list.
+Topic: Myth-Busting — A common myth about sugar, diabetes, or pre-diabetes, corrected with plain-language facts.
 Generating host video via fal.ai...
 [video_gen] host=Nora outfit=a fitted cream ribbed knit top with a deep sweetheart neckline
-[video_gen] host script: Sugar hides under sneaky names. Check the ingredient list for anything ending in -ose, like dextrose or maltose.
-[video_gen] voiceover is 10.9s against a 9.8s clip -- skipping lip-sync
-[video_gen] voiceover runs 1.3s past the clip -- holding the last frame
-Generated 3987213 bytes
-  duration=11.27s size=[1080, 1920] audio=True
+[video_gen] host script (18 words): Eating sugar doesn't cause diabetes. It's your overall diet, weight, and genes that matter, so balance beats banning.
+[video_gen] take ran 10.3s (over 9.8s) at 1.76 words/sec -- rewriting at 15 words
+[video_gen] host script (13 words): Sugar alone doesn't cause diabetes. It's genetics, weight, and activity that matter most.
+[video_gen] take runs 6.9s, inside the 9.8s window
+[video_gen] restoring [1072, 1920] to [1080, 1920]
+Generated 3348036 bytes
+  duration=9.77s size=[1080, 1920] audio=True
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Sugar wears a lot of disguises on that ingredient list — 60+, actually.
+"Diabetes is caused by eating too much sugar."
 
-Here's what to look for:
-• Anything ending in "-ose" — dextrose, maltose, fructose, all sugar
-• Syrups of any kind — rice syrup, cane syrup, brown rice syrup
-• "Healthy" sounding names — evaporated cane juice, agave nectar
-• Check the first 3 ingredients — if a sugar shows up there, it's a main ingredient, not an accent
+Let's clear this one up:
 
-Quick trick: flip to the ingredient list before the nutrition facts. Sugars are often split into 2-3 different names so no single one ranks too high on the list — sneaky, but easy to spot once you know the pattern.
+Type 1 diabetes is autoimmune — sugar doesn't cause it, period.
+Type 2 is shaped by genetics, activity, sleep, stress, and more — sugar intake is just one small piece of a much bigger picture.
 
-Save this for your next grocery run. What's a "healthy" label that surprised you when you actually read it? Tell me below. 🛒
+You didn't cause this by having dessert sometimes. Guilt isn't a treatment plan, and it never made anyone healthier.
 
-#lowcarblifestyle #type2diabetic #lowglycemic #insulinresistance #nosugarchallenge #healthyswap #healthyrecipes #foodismedicine #healthyliving #eatclean
+What actually helps? Consistent habits, moving your body, sleeping enough, and working with your care team to find what works for *you*.
+
+Knowledge over blame, every time.
+
+Save this for the next time someone tries to "well actually" you at a dinner party. And tell me — what's a diabetes myth you wish would just disappear?
+
+⚠️ Not medical advice. Talk to your doctor before making changes to your diet or medication.
+
+#nosugarchallenge #prediabeteswarrior #sugarswap #lowglycemic #sugarfreelifestyle #nutritiontips #glutenfreelife #healthyhabits #eatclean #realfood
 ---------------
 
 --dry-run set: not publishing to Instagram.
