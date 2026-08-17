@@ -1,0 +1,15 @@
+outcome: failure
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 73, in <module>
+    main()
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 47, in main
+    caption = content_gen.generate_am_caption(topic)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/content_gen.py", line 79, in generate_am_caption
+    f"Today's topic: {topic['name']} ({topic['weekday'].title()}).\n"
+                                       ~~~~~^^^^^^^^^^^
+KeyError: 'weekday'
+Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
