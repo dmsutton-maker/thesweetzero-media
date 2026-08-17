@@ -1,27 +1,30 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Topic: Snack Swaps — A specific high-sugar snack and a low/no-sugar swap for it.
+Topic: Grocery/Label Reading Tip — How to spot hidden sugar on a nutrition label or ingredient list.
 Generating host video via fal.ai...
 [video_gen] host=Nora outfit=a fitted cream ribbed knit top with a deep sweetheart neckline
-[video_gen] host script: Skip the flavored yogurt cups, they're basically dessert. Grab plain Greek yogurt and toss in some cinnamon and berries yourself.
-Generated 24161175 bytes
-  duration=9.77s size=[1072, 1920] audio=True
+[video_gen] host script: Sugar hides under sneaky names. Check the ingredient list for anything ending in -ose, like dextrose or maltose.
+[video_gen] voiceover is 10.9s against a 9.8s clip -- skipping lip-sync
+[video_gen] voiceover runs 1.3s past the clip -- holding the last frame
+Generated 3987213 bytes
+  duration=11.27s size=[1080, 1920] audio=True
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
 
 --- caption ---
-Craving something crunchy but don't want the sugar crash an hour later?
+Sugar wears a lot of disguises on that ingredient list — 60+, actually.
 
-Swap: flavored granola bars → roasted chickpeas
-Toss canned chickpeas (drained, patted dry) with olive oil, salt, and whatever spice you love — smoked paprika, cumin, garlic powder
-Roast at 400°F for 25-30 min, shaking the pan halfway
-You get the crunch, plus fiber and protein to help keep you steady
+Here's what to look for:
+• Anything ending in "-ose" — dextrose, maltose, fructose, all sugar
+• Syrups of any kind — rice syrup, cane syrup, brown rice syrup
+• "Healthy" sounding names — evaporated cane juice, agave nectar
+• Check the first 3 ingredients — if a sugar shows up there, it's a main ingredient, not an accent
 
-They keep well too — make a big batch on Sunday and you've got snacks ready for the whole week.
+Quick trick: flip to the ingredient list before the nutrition facts. Sugars are often split into 2-3 different names so no single one ranks too high on the list — sneaky, but easy to spot once you know the pattern.
 
-Save this for later, and tell me: what's the snack you miss most since cutting back on sugar? 🍫
+Save this for your next grocery run. What's a "healthy" label that surprised you when you actually read it? Tell me below. 🛒
 
-#nosugarchallenge #prediabeteswarrior #sugarswap #lowsugarliving #insulinresistance #healthyswap #wellnessjourney #eatclean #mealprep #homecooking
+#lowcarblifestyle #type2diabetic #lowglycemic #insulinresistance #nosugarchallenge #healthyswap #healthyrecipes #foodismedicine #healthyliving #eatclean
 ---------------
 
 --dry-run set: not publishing to Instagram.
