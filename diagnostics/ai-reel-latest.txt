@@ -1,37 +1,41 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Topic: Myth-Busting — A common myth about sugar, diabetes, or pre-diabetes, corrected with plain-language facts.
+Topic: Recipe of the Day — A simple low/no-sugar recipe with a short ingredient list.
 Scene date: 2026-08-18 (Tuesday)
 Generating host video via fal.ai...
 [video_gen] host=Nora outfit=a soft dusty-rose fitted sweater with a plunging v-neck guest=none
-[video_gen] host script (26 words): Sugar alone doesn't cause diabetes. Let's slow down on that. Genetics, sleep, stress, and overall diet all play a part. It's about patterns, not one dessert.
-[video_gen] take ran 11.3s (over 9.8s) at 2.29 words/sec -- rewriting at 20 words
-[video_gen] host script (18 words): Sugar alone doesn't cause diabetes—that's the myth. It's genetics, sleep, activity, and overall diet patterns that matter most.
-[video_gen] take runs 8.5s, inside the 9.8s window
-[video_gen] restoring [1072, 1920] to [1080, 1920]
-Generated 3947641 bytes
-  duration=9.77s size=[1080, 1920] audio=True
+[video_gen] host script (26 words): Dinner doesn't need to be complicated to be worth eating. Sauté garlic, tomatoes, white beans, and spinach, finish with lemon. Fifteen minutes, fiber-packed, and genuinely satisfying.
+[video_gen] take ran 11.6s (over 9.8s) at 2.25 words/sec -- rewriting at 19 words
+[video_gen] host script (16 words): Dinner doesn't need to be complicated. White beans, tomatoes, spinach, garlic, lemon, fifteen minutes, actually filling.
+[video_gen] take runs 7.9s, inside the 9.8s window
+[video_gen] trimming 9.8s to 9.4s
+[video_gen] restoring (1072, 1920) to [1080, 1920]
+Generated 4547868 bytes
+  duration=9.39s size=[1080, 1920] audio=True
 Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-18/ai-reel-manual.mp4
 
 --- caption ---
-"You'll get diabetes from eating too much sugar." Let's slow down on that one.
+Dinner doesn't need to be complicated to be worth eating.
 
-Here's the fuller picture:
-- Type 2 diabetes develops from a mix of genetics, activity levels, sleep, stress, and overall diet — not one food group
-- Sugar itself isn't "toxic," but foods high in refined sugar often replace fiber and nutrients your body needs
-- Eating sweets occasionally doesn't cause diabetes on its own
-- Managing blood sugar is about patterns over time, not perfection in a single meal
+Today's recipe: Zesty White Bean Skillet
 
-The goal here isn't fear — it's understanding what actually helps day to day: balanced plates, movement, sleep, and consistency.
+- 1 can white beans, drained
+- 1 cup cherry tomatoes, halved
+- 2 cups spinach
+- 1 tbsp olive oil, garlic, lemon juice
 
-If something you've heard about sugar or diabetes has been rattling around in your head, send it my way. We'll bust it together.
+Sauté garlic in olive oil, add tomatoes until soft, stir in beans and spinach until wilted. Finish with a squeeze of lemon.
 
-Save this for the next time someone repeats the myth at a dinner party.
+Ready in 15 minutes. High in fiber, easy on blood sugar swings, and genuinely satisfying.
+
+This is one of those recipes worth keeping on repeat — simple enough for a weeknight, filling enough that you won't be raiding the pantry an hour later.
+
+Save this one for later, and tell me — what's your go-to five-ingredient dinner?
 
 ⚠️ Not medical advice. Talk to your doctor before making changes to your diet or medication.
 
-#lowsugarliving #insulinresistance #lowcarblifestyle #type2diabetic #diabeticfriendlyfood #eatclean #foodismedicine #glutenfreelife #realfood #nutritiontips
+#type2diabetic #lowglycemic #insulinresistance #nosugarchallenge #sugarswap #foodismedicine #healthyrecipes #homecooking #glutenfreelife #wellnessjourney
 ---------------
 
 --dry-run set: not publishing to Instagram.
