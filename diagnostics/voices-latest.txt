@@ -1,7 +1,7 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Direction: in a warm, playful, lightly flirty tone -- teasing and unhurried, like you're letting the viewer in on something, at an easy conversational pace
+Direction: in a warm, playful, lightly flirty tone -- energetic and quick, talking at a brisk natural pace like she's excited to tell you something, not a slow deliberate read
 Line: Craving something sweet after dinner? Try frozen berries with a spoonful of Greek yogurt. Same hit, none of the crash.
 
-Kore: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Kore.wav
+Laomedeia: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/voices/Laomedeia.wav
