@@ -1,34 +1,34 @@
 outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Topic: Low-GI Food Spotlight — One low glycemic-index food and why it's a solid choice.
-Scene date: 2026-08-22 (Saturday)
+Topic: Snack Swaps — A specific high-sugar snack and a low/no-sugar swap for it.
+Scene date: 2026-08-18 (Tuesday)
 Generating host video via fal.ai...
-[video_gen] host=Nora outfit=a fitted oatmeal cashmere sweater with a draped cowl neckline that falls low guest=a friend in her late 20s with curly dark hair, in a simple olive t-shirt
-[video_gen] host script (22 words): Lentils are a quiet win. They're packed with fiber and protein, so they digest slowly and won't spike your blood sugar fast.
-[video_gen] take runs 9.0s, inside the 9.8s window
-[video_gen] restoring [1072, 1920] to [1080, 1920]
-Generated 4274482 bytes
-  duration=9.77s size=[1080, 1920] audio=True
-Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-17/ai-reel-manual.mp4
+[video_gen] host=Nora outfit=a soft dusty-rose fitted sweater with a plunging v-neck guest=none
+[video_gen] host script (19 words): That granola bar's basically candy in disguise. Try almonds with a few berries—same crunchy sweetness, way less sugar spike.
+[video_gen] take ran 10.3s (over 9.8s) at 1.84 words/sec -- rewriting at 16 words
+[video_gen] host script (16 words): That granola bar's basically candy in disguise. Swap it for almonds with a few berries instead.
+[video_gen] take runs 6.7s, inside the 9.8s window
+[video_gen] trimming 9.8s to 8.2s
+[video_gen] restoring (1072, 1920) to [1080, 1920]
+Generated 3170160 bytes
+  duration=8.19s size=[1080, 1920] audio=True
+Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-08-18/ai-reel-manual.mp4
 
 --- caption ---
-Meet your new pantry staple: steel-cut oats.
+That granola bar is basically a candy bar in disguise.
 
-Here's why they're worth the (slightly longer) cook time —
-Steel-cut oats are minimally processed, so your body breaks them down slower than instant versions.
-That slower digestion means a gentler rise in blood sugar, not a spike-and-crash situation.
-Bonus: they're packed with fiber, which helps you stay full longer too.
+Try this instead:
+- Swap it for a small handful of almonds + a few berries
+- Or plain Greek yogurt with cinnamon and a spoon of chia seeds
+- Same satisfying crunch-and-sweet combo, way less sugar spike
+- Keep a stash at your desk so the vending machine doesn't win
 
-Quick tip: cook a big batch on Sunday and portion it out for the week. Reheat with a splash of milk and your favorite low-sugar toppings — cinnamon, chopped nuts, or a few berries.
+This isn't about giving up snacks — it's about finding ones that actually keep you steady through the afternoon slump. 🍓
 
-Not all carbs act the same in your body, and that's worth remembering next time you're grocery shopping.
+Save this for later, and tell me: what's your go-to snack swap?
 
-Save this for later, and tell me — are you team steel-cut or team overnight oats?
-
-⚠️ Not medical advice. Talk to your doctor before making changes to your diet or medication.
-
-#nosugarchallenge #lowsugarliving #lowglycemic #bloodsugarbalance #lowcarblifestyle #healthyswap #wellnessjourney #realfood #eatclean #healthyrecipes
+#insulinresistance #sugarswap #diabeticfriendlyfood #bloodsugarbalance #lowcarblifestyle #mealprep #nutritiontips #healthyhabits #healthyliving #eatclean
 ---------------
 
 --dry-run set: not publishing to Instagram.
