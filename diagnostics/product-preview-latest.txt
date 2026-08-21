@@ -1,0 +1,8 @@
+outcome: success
+
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+
+=== Fitbit Inspire 3 (fitness_tracker) ===
+  subject: a slim plain fitness tracker band with a blank dark screen, worn on a person's wrist, natural daylight
+[image_gen] subject check could not run (404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}) -- using the image unchecked
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-fitness_tracker.png
