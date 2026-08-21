@@ -2,6 +2,70 @@ outcome: success
 
 Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
 
+=== Lakanto Monk Fruit Sweetener (lakanto_monk_fruit) ===
+  subject: a small white bowl of granulated white sweetener beside a metal measuring spoon on a light kitchen counter
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-lakanto_monk_fruit.png
+
+=== Truvia Stevia (truvia_stevia) ===
+  subject: a small dish of fine white granulated sweetener next to a mug of black coffee and a teaspoon
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-truvia_stevia.png
+
+=== Wholesome Allulose (wholesome_allulose) ===
+  subject: granulated white sweetener in an open glass jar beside a tray of golden-brown baked cookies
+[image_gen] subject check could not run (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}) -- using the image unchecked
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-wholesome_allulose.png
+
+=== NOW Foods Monk Fruit Liquid (now_foods_monk_fruit_liquid) ===
+  subject: a small amber glass dropper bottle beside a tall glass of iced tea on a counter
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-now_foods_monk_fruit_liquid.png
+
+=== Chomps Beef Jerky (chomps_beef_jerky) ===
+  subject: a plain dried beef jerky meat stick, unwrapped, on a small wooden board
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-chomps_beef_jerky.png
+
+=== The Only Bean Edamame Snacks (only_bean_edamame_snacks) ===
+  subject: a bowl of crunchy roasted green edamame beans spilling onto a counter
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-only_bean_edamame_snacks.png
+
+=== Quest Chocolate Chip Cookie Dough Protein Bar (low_sugar_protein_bar) ===
+  subject: a plain unwrapped chocolate-chip protein bar broken in half on a small plate
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-low_sugar_protein_bar.png
+
+=== Gimme Seaweed Snacks (gimme_seaweed_snacks) ===
+  subject: crisp dark green roasted seaweed sheets fanned out in a shallow dish
+[image_gen] subject check could not run (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}) -- using the image unchecked
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-gimme_seaweed_snacks.png
+
+=== Greater Goods Digital Nutrition Scale (digital_carb_scale) ===
+  subject: a plain modern digital kitchen scale with a blank display, a white bowl of chopped vegetables resting on its platform
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-digital_carb_scale.png
+
+=== Ninja Air Fryer (ninja_air_fryer) ===
+  subject: a modern black countertop air fryer with its basket open, roasted vegetables inside, on a kitchen counter
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-ninja_air_fryer.png
+
 === Fitbit Inspire 3 (fitness_tracker) ===
   subject: a slim plain fitness tracker band with a blank dark screen, worn on a person's wrist, natural daylight
   https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-fitness_tracker.png
+
+=== Hydracy Motivational Water Bottle (motivational_water_bottle) ===
+  subject: a tall slim reusable sports water bottle standing on a wooden desk beside a notebook
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-motivational_water_bottle.png
+
+=== Amazon Basics Glass Food Storage Containers (glass_meal_prep_containers) ===
+  subject: a stack of clear glass meal-prep containers with lids, filled with portioned vegetables and grains
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-glass_meal_prep_containers.png
+
+=== Clever Fox Food Sensitivity Journal (food_journal) ===
+  subject: an open blank-paged notebook and a pen on a table beside a cup of tea
+[image_gen] subject check could not run (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}) -- using the image unchecked
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-food_journal.png
+
+=== Glucose Revolution by Jessie Inchauspé (glucose_revolution_book) ===
+  subject: a plain closed hardcover book resting on a table beside a cup of tea and a bowl of fresh fruit
+[image_gen] subject check could not run (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}) -- using the image unchecked
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-glucose_revolution_book.png
+
+=== The 5 Ingredient Diabetic Slow Cooker Cookbook (diabetic_slow_cooker_cookbook) ===
+  subject: an open blank-paged cookbook on a kitchen counter beside a slow cooker and a few fresh whole ingredients
+  https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/diagnostics/product-preview-diabetic_slow_cooker_cookbook.png
