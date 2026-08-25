@@ -1,39 +1,17 @@
 outcome: failure
 
 Traceback (most recent call last):
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 110, in main
-    video_gen.assemble_host_reel(topic, reel_path, scene_date, caption=caption)
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/video_gen.py", line 683, in assemble_host_reel
-    video_url = fal_client.generate_video_with_character(
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/fal_client.py", line 152, in generate_video_with_character
-    return _submit_and_wait(model, payload)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/fal_client.py", line 86, in _submit_and_wait
-    raise FalError(
-app.fal_client.FalError: fal.ai rejected the submit for model 'fal-ai/kling-video/o1/reference-to-video' (HTTP 403): {"detail":"User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing."}
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
   File "<frozen runpy>", line 198, in _run_module_as_main
   File "<frozen runpy>", line 88, in _run_code
   File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 121, in <module>
     main()
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 115, in main
-    video_gen.assemble_ai_reel(video_prompt, reel_path)
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/video_gen.py", line 320, in assemble_ai_reel
-    video_url = fal_client.generate_video(prompt, duration=AI_VIDEO_DURATION_SECONDS, aspect_ratio="9:16")
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/fal_client.py", line 62, in generate_video
-    return _submit_and_wait(model, {
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/fal_client.py", line 86, in _submit_and_wait
-    raise FalError(
-app.fal_client.FalError: fal.ai rejected the submit for model 'fal-ai/kling-video/v1.6/standard/text-to-video' (HTTP 403): {"detail":"User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing."}
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 103, in main
+    video_gen.assemble_free_host_reel(topic, reel_path, scene_date, caption=caption)
+  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/video_gen.py", line 634, in assemble_free_host_reel
+    portrait = image_gen.cover_resize(Image.open(portrait_path).convert("RGB"), REEL_CANVAS_SIZE)
+                                                                                ^^^^^^^^^^^^^^^^
+NameError: name 'REEL_CANVAS_SIZE' is not defined
 Topic: Myth-Busting — A common myth about sugar, diabetes, or pre-diabetes, corrected with plain-language facts.
 Scene date: 2026-08-25 (Tuesday)
-Generating host video via fal.ai...
-[video_gen] host=Nora outfit=a soft dusty-rose fitted sweater with a plunging v-neck guest=none
-host reel failed (FalError('fal.ai rejected the submit for model \'fal-ai/kling-video/o1/reference-to-video\' (HTTP 403): {"detail":"User is locked. Reason: Exhausted balance. Top up your balance at fal.ai/dashboard/billing."}')) -- falling back to hostless AI video.
-  prompt: A cinematic vertical video of: Myth-Busting — A common myth about sugar, diabetes, or pre-diabetes, corrected with plain-language facts.. A person is cooking this in a bright, lived-in home kitchen: hands chopping, stirring and assembling in close-up, the raw ingredients laid out on the counter, and the finished dish presented at the end. Warm, editorial food cinematography, soft natural window light, shallow depth of field, gentle handheld camera movement. No on-screen text, no logos, no watermarks.
+Generating FREE host reel (no paid API)...
+[video_gen] free host reel: 1 shot(s) -- Sugar-free does
