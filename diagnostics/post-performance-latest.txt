@@ -1,27 +1,42 @@
 outcome: success
 
-Date         Type     Reach  Likes  Cmts  Saves  Shares   Total  Caption
-2026-08-20   Image        0      1     0      -       0       1  Dinner doesn't need ten ingredients to feel like a win.  Ton
-2026-08-20   Reel        10      1     0      0       0       1  Some recipes don't need a headline — they just need to work 
-2026-08-19   Image        3      3     2      -       0       5  "Diabetes is caused by eating too much sugar" — nope, that's
-2026-08-19   Reel        37      3     0      0       0       3  Myth: "If it's labeled sugar-free, it won't affect your bloo
-2026-08-19   Image        3      3     0      -       0       3  Ever eyeball a "serving" of rice and end up with triple the 
-2026-08-18   Image        5      4     1      -       0       5  Granola bars are basically candy bars in disguise. 🍫  Here's
-2026-08-18   Reel        13      3     0      0       0       3  That granola bar is basically candy wearing a health costume
-2026-08-18   Image        6      3     0      -       0       3  Craving something crunchy and salty at 3pm but don't want th
-2026-08-17   Reel        65      3     2      0       0       5  Dinner doesn't have to be complicated to feel like a win.  T
-2026-08-17   Image        5      4     1      -       0       5  Sunday you, meet Monday you (she's grateful, by the way).  T
-2026-08-17   Reel        89      3     0      0       0       3  Sunday you, meet Monday you — she's about to say thank you. 
-2026-08-16   Image        4      3     0      -       0       3  Some weeks you'll test, count, and plan perfectly. Other wee
-2026-08-16   Reel       115      2     2      0       0       4  Sunday check-in: what's one small win this week that had not
-2026-08-14   Image        7      3     2      -       0       5  Hidden sugar loves a disguise. Let's out it.  Here's the tri
-2026-08-14   Reel       102      2     0      0       0       2  Sugar has a lot of aliases, and the label game counts on you
-2026-08-13   Image        8      4     7      -       0      11  Craving something crunchy that won't spike your blood sugar?
-2026-08-13   Image        9      2     3      -       0       5  Dinner doesn't have to be complicated to be good for you.  T
-2026-08-13   Reel       101      3     0      0       0       3  Some recipes don't need a fridge full of ingredients to feel
-2026-08-12   Image        9      4     2      -       0       6  Ever get that mid-afternoon crash and reach for something sw
-2026-08-12   Image       10      4     1      -       0       5  Myth: "Fruit is basically candy, so it's off-limits."  Here'
+Date         Type     Reach  Likes  Cmts  Saves  Shares   Total  Visits  Folls  Watch  Skip%  Caption
+2026-08-25   Image        2      2     0      -       0       2       0      0      -      -  That afternoon vending machine run doesn't stand a chance ag
+2026-08-25   Reel        18      1     0      0       0       1       -      -   2.7s    82%  Granola bars sound healthy... until you check the sugar coun
+2026-08-25   Image        3      3     1      -       0       4       0      0      -      -  That moment when a recipe calls for a cup of sugar and you j
+2026-08-24   Image        4      2     2      -       0       4       0      0      -      -  Sunday spent 20 minutes on prep saves Wednesday's blood suga
+2026-08-24   Reel       110      2     0      0       0       2       -      -   1.3s    96%  Sunday you, thank Wednesday you.  Here's the one habit that 
+2026-08-24   Image        4      4     3      -       0       7       1      0      -      -  "What's for dinner?" hits different when you're also countin
+2026-08-23   Image        3      3     1      -       0       4       1      0      -      -  Some weeks you'll track every carb. Some weeks you'll just s
+2026-08-23   Reel        62      2     0      0       0       2       -      -   1.8s    90%  Some weeks you'll nail every swap. Some weeks you'll eat the
+2026-08-23   Image        3      3     1      -       0       4       0      0      -      -  Ever feel like blood sugar science is written in a language 
+2026-08-22   Image        3      3     1      -       0       4       0      0      -      -  Meet your new pantry staple: steel-cut oats.  Here's why the
+2026-08-22   Reel        81      2     0      0       0       2       -      -   1.8s    87%  Meet your new pantry staple: steel-cut oats.  Unlike instant
+2026-08-22   Image        2      2     0      -       0       2       0      0      -      -  Ever eat something and feel off, but can't quite connect the
+2026-08-21   Image        6      3     2      -       0       5       1      0      -      -  Sugar has a lot of aliases — it's not trying to be found.  H
+2026-08-21   Reel        54      2     0      0       0       2       -      -   2.4s    86%  Sugar has a lot of aliases — and food brands know it.  Here'
+2026-08-21   Image        6      3     1      -       0       4       1      0      -      -  Ever "forget" to move because the day just... happens? Same.
+2026-08-20   Image        6      2     0      -       0       2       0      0      -      -  Dinner doesn't need ten ingredients to feel like a win.  Ton
+2026-08-20   Reel       134      3     0      0       0       3       -      -   3.3s    74%  Some recipes don't need a headline — they just need to work 
+2026-08-19   Image        4      3     2      -       0       5       0      0      -      -  "Diabetes is caused by eating too much sugar" — nope, that's
+2026-08-19   Reel        39      3     0      0       0       3       -      -   2.6s    85%  Myth: "If it's labeled sugar-free, it won't affect your bloo
+2026-08-19   Image        5      3     0      -       0       3       2      0      -      -  Ever eyeball a "serving" of rice and end up with triple the 
+2026-08-18   Image        5      4     1      -       0       5       1      0      -      -  Granola bars are basically candy bars in disguise. 🍫  Here's
+2026-08-18   Reel        13      3     0      0       0       3       -      -   9.2s    77%  That granola bar is basically candy wearing a health costume
+2026-08-18   Image        6      3     0      -       0       3       2      0      -      -  Craving something crunchy and salty at 3pm but don't want th
+2026-08-17   Reel        65      3     2      0       0       5       -      -   2.8s    81%  Dinner doesn't have to be complicated to feel like a win.  T
+2026-08-17   Image        5      4     1      -       0       5       1      0      -      -  Sunday you, meet Monday you (she's grateful, by the way).  T
 
-Reels (n=8): avg reach 66, avg total interactions 3.0
+Reels (n=9): avg reach 64, avg total interactions 2.6
 
-Images (n=12): avg reach 6, avg total interactions 4.8
+Images (n=16): avg reach 4, avg total interactions 3.9
+
+Follow funnel across 25 posts: reach 643 -> profile visits 10 -> follows 0
+(Reels don't report visits/follows per post -- their share of the funnel only shows in the account totals below.)
+
+Account totals, trailing 30 days:
+  views: 2389
+  reach: 1357
+  profile_views: 56
+  accounts_engaged: 10
+  total_interactions: 219
