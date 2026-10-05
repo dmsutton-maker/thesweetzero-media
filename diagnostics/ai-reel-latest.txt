@@ -1,17 +1,29 @@
-outcome: failure
+outcome: success
 
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 121, in <module>
-    main()
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/scripts/post_ai_reel_now.py", line 103, in main
-    video_gen.assemble_free_host_reel(topic, reel_path, scene_date, caption=caption)
-  File "/home/runner/work/thesweetzero-automation/thesweetzero-automation/app/video_gen.py", line 634, in assemble_free_host_reel
-    portrait = image_gen.cover_resize(Image.open(portrait_path).convert("RGB"), REEL_CANVAS_SIZE)
-                                                                                ^^^^^^^^^^^^^^^^
-NameError: name 'REEL_CANVAS_SIZE' is not defined
-Topic: Myth-Busting — A common myth about sugar, diabetes, or pre-diabetes, corrected with plain-language facts.
-Scene date: 2026-08-25 (Tuesday)
-Generating FREE host reel (no paid API)...
-[video_gen] free host reel: 1 shot(s) -- Sugar-free does
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+Topic: Meal Prep / Weekly Reset — A practical meal-prep tip or weekly reset ritual for low/no-sugar living.
+Scene date: 2026-10-05 (Monday)
+Generating the hostless Reel (the shipping AM format, no paid API)...
+[video_gen] no-host reel hook: 'Your meal prep is missing one thing'
+[video_gen] no-host reel: 2 beat(s) -- Monday doesn't need a glow-up, it needs a game plan. Chop veggies, cook a big batch of grains, portion protein, keep one simple sauce ready.
+Generated 4944664 bytes
+  duration=16.82s size=[1080, 1920] audio=True
+Uploaded: https://raw.githubusercontent.com/dmsutton-maker/thesweetzero-media/main/2026-10-05/ai-reel-manual.mp4
+
+--- caption ---
+Monday doesn't need a glow-up. It needs a game plan.
+
+Here's the move: before you grocery shop, build your "blood-sugar-friendly base" —
+Chop veggies for easy roasting
+Cook a big batch of plain grains or beans
+Portion protein into grab-and-go containers
+Keep one simple sauce on hand (think olive oil + lemon + herbs) so nothing tastes boring
+
+This way, when 5pm hits and you're tired, the hard part's already done. No sugar-laden shortcuts needed.
+
+Every morning we post a new low-sugar swap — small, doable things that add up without turning your whole kitchen upside down. Follow @thesweetzero so you've got a fresh idea waiting with your coffee tomorrow. 🍵
+
+#type2diabetic #lowcarblifestyle #lowsugarliving #nosugarchallenge #diabeticfriendlyfood #nutritiontips #wellnessjourney #foodismedicine #healthyswap #mealprep
+---------------
+
+--dry-run set: not publishing to Instagram.
