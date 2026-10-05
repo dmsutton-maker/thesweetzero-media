@@ -1,42 +1,42 @@
 outcome: success
 
 Date         Type     Reach  Likes  Cmts  Saves  Shares   Total  Visits  Folls  Watch  Skip%  Caption
-2026-08-25   Image        2      2     0      -       0       2       0      0      -      -  That afternoon vending machine run doesn't stand a chance ag
-2026-08-25   Reel        18      1     0      0       0       1       -      -   2.7s    82%  Granola bars sound healthy... until you check the sugar coun
-2026-08-25   Image        3      3     1      -       0       4       0      0      -      -  That moment when a recipe calls for a cup of sugar and you j
-2026-08-24   Image        4      2     2      -       0       4       0      0      -      -  Sunday spent 20 minutes on prep saves Wednesday's blood suga
-2026-08-24   Reel       110      2     0      0       0       2       -      -   1.3s    96%  Sunday you, thank Wednesday you.  Here's the one habit that 
-2026-08-24   Image        4      4     3      -       0       7       1      0      -      -  "What's for dinner?" hits different when you're also countin
-2026-08-23   Image        3      3     1      -       0       4       1      0      -      -  Some weeks you'll track every carb. Some weeks you'll just s
-2026-08-23   Reel        62      2     0      0       0       2       -      -   1.8s    90%  Some weeks you'll nail every swap. Some weeks you'll eat the
-2026-08-23   Image        3      3     1      -       0       4       0      0      -      -  Ever feel like blood sugar science is written in a language 
-2026-08-22   Image        3      3     1      -       0       4       0      0      -      -  Meet your new pantry staple: steel-cut oats.  Here's why the
-2026-08-22   Reel        81      2     0      0       0       2       -      -   1.8s    87%  Meet your new pantry staple: steel-cut oats.  Unlike instant
-2026-08-22   Image        2      2     0      -       0       2       0      0      -      -  Ever eat something and feel off, but can't quite connect the
-2026-08-21   Image        6      3     2      -       0       5       1      0      -      -  Sugar has a lot of aliases — it's not trying to be found.  H
-2026-08-21   Reel        54      2     0      0       0       2       -      -   2.4s    86%  Sugar has a lot of aliases — and food brands know it.  Here'
-2026-08-21   Image        6      3     1      -       0       4       1      0      -      -  Ever "forget" to move because the day just... happens? Same.
-2026-08-20   Image        6      2     0      -       0       2       0      0      -      -  Dinner doesn't need ten ingredients to feel like a win.  Ton
-2026-08-20   Reel       134      3     0      0       0       3       -      -   3.3s    74%  Some recipes don't need a headline — they just need to work 
-2026-08-19   Image        4      3     2      -       0       5       0      0      -      -  "Diabetes is caused by eating too much sugar" — nope, that's
-2026-08-19   Reel        39      3     0      0       0       3       -      -   2.6s    85%  Myth: "If it's labeled sugar-free, it won't affect your bloo
-2026-08-19   Image        5      3     0      -       0       3       2      0      -      -  Ever eyeball a "serving" of rice and end up with triple the 
-2026-08-18   Image        5      4     1      -       0       5       1      0      -      -  Granola bars are basically candy bars in disguise. 🍫  Here's
-2026-08-18   Reel        13      3     0      0       0       3       -      -   9.2s    77%  That granola bar is basically candy wearing a health costume
-2026-08-18   Image        6      3     0      -       0       3       2      0      -      -  Craving something crunchy and salty at 3pm but don't want th
-2026-08-17   Reel        65      3     2      0       0       5       -      -   2.8s    81%  Dinner doesn't have to be complicated to feel like a win.  T
-2026-08-17   Image        5      4     1      -       0       5       1      0      -      -  Sunday you, meet Monday you (she's grateful, by the way).  T
+2026-10-05   Image        0      1     0      -       0       1       0      0      -      -  Monday is for building the bowl that saves you from Wednesda
+2026-10-05   Reel        73      1     0      0       0       1       -      -   1.8s    92%  Monday doesn't need a perfect plan. It needs a starting poin
+2026-10-05   Reel        15      1     0      0       0       1       -      -   1.2s    94%  Monday doesn't need a perfect plan. It needs a starting poin
+2026-10-05   Image        1      1     0      -       0       1       0      0      -      -  That 3pm vending machine craving hits different when you're 
+2026-10-04   Image        2      1     0      -       0       1       0      0      -      -  Sunday check-in: what's one small win you had this week?  Ma
+2026-10-04   Reel         4      1     0      0       0       1       -      -   4.1s    80%  Let's keep it real: what's the hardest meal of the day for y
+2026-10-04   Image        3      2     2      -       0       4       0      0      -      -  Ever dump sweetener into your coffee and have no idea how mu
+2026-10-03   Image        2      1     0      -       0       1       0      0      -      -  Steel-cut oats are the overachiever of the breakfast world. 
+2026-10-03   Reel        97      1     0      0       0       1       -      -   3.1s    80%  **The humble lentil is quietly one of the best things on you
+2026-10-03   Image        1      1     0      -       0       1       0      0      -      -  Ever notice most sugar substitutes refuse to brown, carameli
+2026-10-02   Image        4      2     4      -       0       6       0      0      -      -  Sugar doesn't always say "sugar" on the label — that's the s
+2026-10-02   Reel         9      1     0      0       0       1       -      -   1.6s    89%  Hidden sugar doesn't always say "sugar." That's the trick.  
+2026-10-02   Image        1      2     3      -       0       5       0      0      -      -  Craving something sweet but trying to keep sugar in check? T
+2026-10-01   Image        2      0     2      -       0       2       0      0      -      -  Dinner doesn't need a plan when you've got five ingredients 
+2026-10-01   Reel        66      1     0      0       0       1       -      -   2.0s    84%  Dinner's sorted, no spreadsheet required.  Tonight's keeper:
+2026-10-01   Image        1      1     0      -       0       1       0      0      -      -  If "cutting back on sugar" keeps turning into "but I still w
+2026-09-30   Image        3      1     0      -       0       1       0      0      -      -  Myth: "Fruit is basically candy, so it's off the table."  Tr
+2026-09-30   Reel        30      0     0      0       0       0       -      -   3.0s    73%  Myth: "If you have prediabetes, fruit is basically off-limit
+2026-09-30   Image        2      2     2      -       0       4       0      0      -      -  "What's for dinner?" hits different when you're also countin
+2026-09-29   Image        1      2     2      -       0       4       0      0      -      -  That afternoon granola bar hits different when it drops you 
+2026-09-29   Reel        18      0     0      0       0       0       -      -   2.2s    89%  Granola bars look healthy. Most are dessert in disguise.  Tr
+2026-09-29   Image        1      1     0      -       0       1       0      0      -      -  Ever eat something "healthy" and still feel that afternoon c
+2026-09-28   Image        2      3     4      -       0       7       0      0      -      -  Sunday scaries? Not when your fridge is already stocked.  Tr
+2026-09-28   Reel        16      0     0      0       0       0       -      -   1.4s    94%  Monday you, meet Friday you — the one who's tired and just w
+2026-09-28   Image        2      1     0      -       0       1       0      0      -      -  Ever eat something and feel weird after, but can't pinpoint 
 
-Reels (n=9): avg reach 64, avg total interactions 2.6
+Reels (n=9): avg reach 36, avg total interactions 0.7
 
-Images (n=16): avg reach 4, avg total interactions 3.9
+Images (n=16): avg reach 2, avg total interactions 2.6
 
-Follow funnel across 25 posts: reach 643 -> profile visits 10 -> follows 0
+Follow funnel across 25 posts: reach 356 -> profile visits 0 -> follows 0
 (Reels don't report visits/follows per post -- their share of the funnel only shows in the account totals below.)
 
 Account totals, trailing 30 days:
-  views: 2389
-  reach: 1357
-  profile_views: 56
-  accounts_engaged: 10
-  total_interactions: 219
+  views: 1351
+  reach: 953
+  profile_views: 4
+  accounts_engaged: 14
+  total_interactions: 201
